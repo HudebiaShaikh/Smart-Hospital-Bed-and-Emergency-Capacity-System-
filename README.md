@@ -30,7 +30,7 @@ A web platform where hospitals publish live bed, ICU, ventilator and emergency c
 python -m venv venv
 venv\Scripts\activate            # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt
-uvicorn app.main:app --reload
+uvicorn main: app --reload
 ```
 Open **http://127.0.0.1:8000** for the app, or **http://127.0.0.1:8000/docs** for the API documentation.
 
