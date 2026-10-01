@@ -1,4 +1,4 @@
-# MedBed Connect — Smart Hospital Bed & Emergency Capacity System
+Smart Hospital Bed & Emergency Capacity System
 
 A web platform where hospitals publish live bed, ICU, ventilator and emergency capacity. Patients and ambulance coordinators use it to find the most suitable hospital, send a referral, and get a bed held while the patient is transferred.
 
